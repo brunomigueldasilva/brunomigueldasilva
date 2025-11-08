@@ -176,9 +176,11 @@
 ## 📫 Let's Connect!
 
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomiguelsilva/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno_m_c_silva@proton.me)
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/bruno-silva.af01c5f6)
+
 </div>
 
 ---
