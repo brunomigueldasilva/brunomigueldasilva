@@ -60,6 +60,7 @@
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![REST](https://img.shields.io/badge/-REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SSH](https://img.shields.io/badge/-SSH-4D4D4D?style=for-the-badge&logo=ssh&logoColor=white)
+![Zigbee](https://img.shields.io/badge/-Zigbee-EB0443?style=for-the-badge&logo=zigbee&logoColor=white)
 
 ### Network Services
 ![DNS](https://img.shields.io/badge/-DNS-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -70,6 +71,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Electronics](https://img.shields.io/badge/-Electronics-FF6B35?style=for-the-badge&logo=电子&logoColor=white)
+![Shelly](https://img.shields.io/badge/-Shelly-4495D1?style=for-the-badge&logo=shelly&logoColor=white)
 
 ### Operating Systems & Platforms
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -82,6 +84,9 @@
 ![Home Assistant](https://img.shields.io/badge/-Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
 ![Synology](https://img.shields.io/badge/-Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=black)
 
+### Infrastructure as Code & Automation
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
 ### Scripting
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -92,6 +97,7 @@
 ![Code Reviews](https://img.shields.io/badge/-Code_Reviews-6E5494?style=for-the-badge&logo=codereview&logoColor=white)
 ![SOLID](https://img.shields.io/badge/-SOLID-FF6B6B?style=for-the-badge&logo=solid&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/-Design_Patterns-4A90E2?style=for-the-badge&logo=blueprint&logoColor=white)
+![SDLC](https://img.shields.io/badge/-SDLC-2C3E50?style=for-the-badge&logo=lifecycle&logoColor=white)
 
 ### Methodologies & Frameworks
 ![Agile](https://img.shields.io/badge/-Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)
@@ -106,6 +112,9 @@
 
 ### Security
 ![White Hat](https://img.shields.io/badge/-White_Hat-000000?style=for-the-badge&logo=hackerone&logoColor=white)
+![GitLeaks](https://img.shields.io/badge/-GitLeaks-000000?style=for-the-badge&logo=git&logoColor=white)
+![Fortify](https://img.shields.io/badge/-Fortify-00A3E0?style=for-the-badge&logo=microfocus&logoColor=white)
+![Black Duck](https://img.shields.io/badge/-Black_Duck-000000?style=for-the-badge&logo=synopsys&logoColor=white)
 
 ### Development Tools & IDEs
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
