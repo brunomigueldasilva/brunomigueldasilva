@@ -2,7 +2,9 @@
   
 # 👋 Hi there, I'm Bruno Silva!
 
+</div>
 
+<div align="center">
 
 ### 🚀 Developer | 💡 Creator | 🌟 Problem Solver
 
@@ -169,7 +171,5 @@ the challenge 💪 — that makes life Great. ✨"
 <div align="center">
   
 ### 🚀 Let's build something amazing together!
-
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </div>
