@@ -42,6 +42,7 @@
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Cake](https://img.shields.io/badge/-Cake-B73147?style=for-the-badge&logo=cake&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -86,6 +87,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WSL](https://img.shields.io/badge/-WSL-0078D6?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/-Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Virtual Machines](https://img.shields.io/badge/-Virtual_Machines-0078D4?style=for-the-badge&logo=vmware&logoColor=white)
 
@@ -95,6 +97,10 @@
 
 ### Infrastructure as Code & Automation
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### Monitoring & Observability
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ### Scripting
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -107,6 +113,8 @@
 ![SOLID](https://img.shields.io/badge/-SOLID-FF6B6B?style=for-the-badge&logo=solid&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/-Design_Patterns-4A90E2?style=for-the-badge&logo=blueprint&logoColor=white)
 ![SDLC](https://img.shields.io/badge/-SDLC-2C3E50?style=for-the-badge&logo=lifecycle&logoColor=white)
+![Debug](https://img.shields.io/badge/-Debug-FF0000?style=for-the-badge&logo=debug&logoColor=white)
+![Refactoring](https://img.shields.io/badge/-Refactoring-00D084?style=for-the-badge&logo=refactoring&logoColor=white)
 
 ### Methodologies & Frameworks
 ![Agile](https://img.shields.io/badge/-Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)
@@ -145,6 +153,8 @@
 ![xUnit](https://img.shields.io/badge/-xUnit-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Mockito](https://img.shields.io/badge/-Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Integration Testing](https://img.shields.io/badge/-Integration_Testing-4A90E2?style=for-the-badge&logo=testing&logoColor=white)
+![End to End Testing](https://img.shields.io/badge/-E2E_Testing-00C7B7?style=for-the-badge&logo=cypress&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ### Project Management & Documentation
