@@ -21,7 +21,7 @@
   - 🔍 Exploring new technologies
   - 📚 Continuous learning
   - 🚀 Building innovative solutions
-- 🎯 **Currently:** Making the world better through code
+- 🎯 **Currently:** Making the world better for everyone, everywhere
 - 💪 **Fun fact:** I do CrossFit 5x a week!
 
 ---
