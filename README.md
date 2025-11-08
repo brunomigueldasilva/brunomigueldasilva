@@ -61,21 +61,30 @@
 ![REST](https://img.shields.io/badge/-REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SSH](https://img.shields.io/badge/-SSH-4D4D4D?style=for-the-badge&logo=ssh&logoColor=white)
 ![Zigbee](https://img.shields.io/badge/-Zigbee-EB0443?style=for-the-badge&logo=zigbee&logoColor=white)
+![FTP](https://img.shields.io/badge/-FTP-0078D4?style=for-the-badge&logo=files&logoColor=white)
 
 ### Network Services
 ![DNS](https://img.shields.io/badge/-DNS-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![DHCP](https://img.shields.io/badge/-DHCP-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
+### Network Infrastructure
+![Unifi](https://img.shields.io/badge/-Unifi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+
 ### IoT & Hardware
 ![IoT](https://img.shields.io/badge/-IoT-3DDC84?style=for-the-badge&logo=iot&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Electronics](https://img.shields.io/badge/-Electronics-FF6B35?style=for-the-badge&logo=电子&logoColor=white)
 ![Shelly](https://img.shields.io/badge/-Shelly-4495D1?style=for-the-badge&logo=shelly&logoColor=white)
+![Sensors](https://img.shields.io/badge/-Sensors-00C853?style=for-the-badge&logo=sensor&logoColor=white)
+![Actuators](https://img.shields.io/badge/-Actuators-FF5722?style=for-the-badge&logo=hardware&logoColor=white)
+![3D Printing](https://img.shields.io/badge/-3D_Printing-FF6B00?style=for-the-badge&logo=3dprinting&logoColor=white)
 
 ### Operating Systems & Platforms
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WSL](https://img.shields.io/badge/-WSL-0078D6?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Virtual Machines](https://img.shields.io/badge/-Virtual_Machines-0078D4?style=for-the-badge&logo=vmware&logoColor=white)
@@ -141,6 +150,16 @@
 ### Project Management & Documentation
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Miro](https://img.shields.io/badge/-Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+
+### Communication & Collaboration
+![Microsoft Teams](https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+
+### Productivity & Office
+![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/-Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
 </div>
 
