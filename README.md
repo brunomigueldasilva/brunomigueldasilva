@@ -1,7 +1,8 @@
 <div align="center">
   
 # 👋 Hi there, I'm Bruno Silva!
-  
+
+
 ### 🚀 Developer | 💡 Creator | 🌟 Problem Solver
 
 ![Profile Views](https://komarev.com/ghpvc/?username=brunomigueldasilva&color=blueviolet&style=flat-square)
