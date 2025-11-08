@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Bruno Silva!
-
 <div align="center">
+  
+# 👋 Hi there, I'm Bruno Silva!
   
 ### 🚀 Developer | 💡 Creator | 🌟 Problem Solver
 
